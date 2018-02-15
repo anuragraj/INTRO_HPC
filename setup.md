@@ -12,6 +12,7 @@ Please ensure you have registered for your account **ATLEAST 3 DAYS PRIOR** to t
 ## Example Files
 
 You will find the example [files used in this tutorial here.](https://github.com/amandamiotto/INTRO_HPC/raw/gh-pages/files/hpcCarpentry.zip)
+A fuller set of [example data can be found here](https://github.com/collinstorlie/INTRO_HPC/files/shell-novice-data.zip)
 
 
 ## SSH
